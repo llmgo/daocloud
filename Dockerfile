@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/sig-storage/csi-node-driver-registrar:v2.0.1
+FROM docker.elastic.co/elasticsearch/elasticsearch:7.10.1
