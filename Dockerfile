@@ -1,1 +1,1 @@
-FROM docker.elastic.co/elasticsearch/elasticsearch:7.10.1
+FROM quay.io/coreos/flannel:v0.13.1-rc1
